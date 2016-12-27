@@ -12,4 +12,4 @@ To install LAMP
 
 5. yum install git
 
-6. git clone https://github.com/aashvipravesh/samplephp.git
+6. git clone https://github.com/aashvipravesh/cloud.git
