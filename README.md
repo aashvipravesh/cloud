@@ -10,4 +10,6 @@ To install LAMP
 
 4. cd /var/www/html
 
-5. git clone https://github.com/smano/samplephp.git
+5. yum install git
+
+6. git clone https://github.com/smano/samplephp.git
